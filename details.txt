@@ -1,0 +1,14 @@
+with the help of Object-oriented programming in python.
+
+trying to built this game Ping-Pong (classic-version).
+
+individual logic of ball, paddeles, score board is handled by seperate classes.
+
+the main logic to run this game is in main.py file.
+
+I am using turtle module to build this game.
+
+
+
+
+............HAPPY COADING...........
